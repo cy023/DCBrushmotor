@@ -1,0 +1,20 @@
+## Ignore avr-gcc temporary files and build results
+
+#Build Results
+**.o
+**.d
+**.eep
+**.elf
+**.hex
+**.map
+**.srec
+# **.a
+
+#IDE
+.vscode/
+
+#Script
+# **.bat
+
+#Test Script
+# **.py
