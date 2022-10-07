@@ -1,2 +1,7 @@
-hi
-===
+# DC Brush Motor Control
+
+## Position Control
+Feedback signal: Analog-to-digital conversion of the synchronous potentiometer signal of the motor output shaft.
+
+## Velocity Control
+Feedback signal: Differentiate the position value.
